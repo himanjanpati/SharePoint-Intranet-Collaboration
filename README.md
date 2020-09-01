@@ -4,6 +4,5 @@
 ✌  - The goal is to achieve low-code and highly scalable intranet solution using SharePoint and other cloud technology.
 
 <a href="https://azarmstorageaccount.blob.core.windows.net/testblob/banner.JPG">
-         <img alt="Intranet" src="https://azarmstorageaccount.blob.core.windows.net/testblob/banner.JPG"
-         width=150" height="70">
+         <img alt="Intranet" src="https://azarmstorageaccount.blob.core.windows.net/testblob/banner.JPG>
       </a>
